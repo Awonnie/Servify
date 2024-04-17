@@ -1,5 +1,7 @@
 # Servify
-Bringing to you service providers from everywhere
+Bringing to you service providers from everywhere. 
+[View the detailed report of our website here](URL_TO_PDF)
+
 ## Getting Started
 
 First, run the development server:
