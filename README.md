@@ -1,5 +1,5 @@
 # Servify
-Bringing to you service providers from everywhere. 
+Your go-to website to seek service providers from everywhere
 
 ## Getting Started
 
