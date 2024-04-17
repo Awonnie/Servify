@@ -1,6 +1,6 @@
 # Servify
 Bringing to you service providers from everywhere. 
-[View the detailed report of our website here](URL_TO_PDF)
+[View the detailed report of our website here](https://github.com/Awonnie/Servify/blob/main/Servify.pdf)
 
 ## Getting Started
 
